@@ -41,3 +41,4 @@
 ### My main project challenges
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=juciranolucas&repo=Projeto-Site-de-Links&bg_color=000&border_color=553C7B&show_icons=true&icon_color=E94D5F&title_color=F0DB4F&text_color=FFF)](https://github.com/JuciranoLucas/Projeto-Site-de-Links)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=juciranolucas&repo=Banking-System-with-Python&bg_color=000&border_color=553C7B&show_icons=true&icon_color=E94D5F&title_color=F0DB4F&text_color=FFF)](https://github.com/JuciranoLucas/Banking-System-with-Python.git)
