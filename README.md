@@ -35,6 +35,7 @@
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuciranoLucas&theme=transparent&bg_color=000&border_color=553C7B&show_icons=true&icon_color=E94D5F&title_color=F0DB4F&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuciranoLucas&layout=compact&bg_color=000&border_color=553C7B&title_color=F0DB4F&text_color=FFF)
 
 ### My main project challenges
