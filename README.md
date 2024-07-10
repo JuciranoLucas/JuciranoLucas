@@ -1,8 +1,8 @@
 # <img align="left" width="40px" height="40px" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXg0NWtzODUweWE3bTFhbnQwZXpwbGdpMG50dmtqbnJ2anJ0eG5oMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif"/> Olá! Eu sou Jucirano Lucas Lins  
 
-<li> 🖥️ | Desenvolvedor front-end em constante evolução </li>
-<li> 📚 | Apaixonado pelo aprendizado </li>
-<li> 🎮 | Gamer nas horas vagas </li>
+<li> 🖥️ | Full-stack developer in constant evolution </li>
+<li> 📚 | Always looking to learn </li>
+<li> 🎮 | Gamer in spare time </li>
 
 ### Connect with me <img align="right" width="320px" height="260px" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc3YzJjYmlocHFheWNrNHQzOGUwZWNhNG45YTBkZmlieTVheXdlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abkwfIVAeDT6RSU/giphy.gif"/>
 
